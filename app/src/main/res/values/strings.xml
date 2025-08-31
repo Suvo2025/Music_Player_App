@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">music</string>
+    <string name="get_started">Get Started</string>
+    <string name="explorer_artists">Explorer Artists</string>
+    <string name="textview">TextView</string>
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+</resources>
